@@ -1,3 +1,9 @@
+
+///Student: Hanna Sjöstrand
+///Mail: hannaa.sjostrand@hotmail.com
+///Reviewed by: Elias Estensen
+///Date reviewed: 18/10-2021
+
 #include <cstdlib>
 // Integer class 
 
