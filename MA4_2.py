@@ -1,3 +1,11 @@
+""" 
+
+Student: Hanna Sjöstrand
+Mail: hannaa.sjostrand@hotmail.com
+Reviewed by: Elias Estensen
+Date reviewed: 18/10-2021
+"""
+
 #!/usr/bin/env python3
 import matplotlib.pyplot as plt
 from integer import Integer
