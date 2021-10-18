@@ -1,3 +1,11 @@
+""" 
+
+Student: Hanna Sjöstrand
+Mail: hannaa.sjostrand@hotmail.com
+Reviewed by: Elias Estensen
+Date reviewed: 18/10-2021
+"""
+
 """ Phyton interface to the C++ Integer class """
 import ctypes
 lib = ctypes.cdll.LoadLibrary('./libinteger.so')
